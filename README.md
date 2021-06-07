@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arya  Choudhury
+- 👀 I’m interested in languages
+- 🌱 I’m currently learning c++
+- 📫 How to reach me @ChoudhuryArya
